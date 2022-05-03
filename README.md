@@ -7,13 +7,13 @@
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 
 ```sh
-git clone https://github.com/udacity/CppND-Route-Planning-Project.git --recurse-submodules
+git clone https://github.com/PedroGabrielBHZ/AStarRoutePlanner.git --recurse-submodules
 ```
 
 or with SSH:
 
 ```sh
-git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-submodules
+git https://github.com/PedroGabrielBHZ/AStarRoutePlanner.git --recurse-submodules
 ```
 
 ## Dependencies for Running Locally
